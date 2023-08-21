@@ -1,0 +1,9 @@
+[submodule "shop-admin"]
+	path = shop-admin
+	url = https://github.com/dark424424/Shop_B_Admin.git
+[submodule "shop-customer"]
+	path = shop-customer
+	url = https://github.com/dark424424/Do_An_Part1.git
+[submodule "shop-backend"]
+	path = shop-backend
+	url = https://github.com/dark424424/Shop_B_Back_end.git
